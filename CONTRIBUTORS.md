@@ -71,3 +71,11 @@ jonddon-branch
 - Place : Lagos State, Nigeria
 - Bio : A UI, UX and Frontend Developer who loves to have fun
 - Github : [richardsaseun14](https://github.com/richardsaseun14)
+
+=======
+
+#### Name: [Olayiwola Ololade](https://github.com/lolyparty)
+
+- Place : Oyo state, Nigeria.
+- Bio :  Loves creating web apps and learning new things.
+- Github : [lolyparty](https://github.com/lolyparty)
